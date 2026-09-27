@@ -306,6 +306,60 @@ It is inspired by enterprise administration practices instead of traditional "de
 | Automation Toolkit | 🟢 Active |
 | GitHub Portfolio | 🟢 Active |
 
+---
+
+# Learning Journey
+
+### Currently Learning
+
+- Kubernetes Administration.
+- Infrastructure as Code.
+- Terraform.
+- Observability.
+- Cloud-native Infrastructure.
+- AI for System Administration.
+
+### Interested In
+
+- eBPF
+- Talos Linux
+- K3s
+- Azure
+- OpenTofu
+- ArgoCD
+
+---
+
+# WindowsLab Roadmap
+
+## Phase 1 — Research
+
+- [x] Windows Registry Research.
+- [x] Telemetry Investigation.
+- [x] Scheduled Tasks Audit.
+- [x] Windows Services Classification.
+
+## Phase 2 — Core Engine
+
+- [ ] Audit Engine.
+- [ ] Backup Engine.
+- [ ] Rollback Engine.
+- [ ] Registry Manager.
+
+## Phase 3 — Dashboard
+
+- [ ] Desktop Interface.
+- [ ] CLI Interface.
+- [ ] Plugin Architecture.
+- [ ] Configuration Profiles.
+
+## Phase 4 — Production
+
+- [ ] Documentation.
+- [ ] Testing Matrix.
+- [ ] Release Pipeline.
+- [ ] GitHub Pages Documentation.
+
 ## Architecture Overview
 
 <p align="center">
