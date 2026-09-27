@@ -28,3 +28,94 @@ Windows Server • Linux • Docker • Kubernetes • Active Directory • Powe
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=windows,linux,docker,kubernetes,powershell,bash,python,git,github,terraform,ansible,prometheus,grafana,vscode"/>
+
+</p>
+
+## Core Technologies
+
+| Infrastructure | Automation | DevOps |
+|---------------|-----------|--------|
+| Windows Server | PowerShell | Docker |
+| Active Directory | Bash | Kubernetes |
+| VMware | Python | GitHub Actions |
+| Hyper-V | Scheduled Tasks | Terraform |
+| Proxmox | WinRM | Ansible |
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3>WindowsLab</h3>
+
+Enterprise Windows Optimization Toolkit.
+
+- Performance
+- Privacy
+- Telemetry
+- Backup
+- Rollback
+
+</td>
+
+<td width="50%">
+<h3>Homelab</h3>
+
+Infrastructure documentation.
+
+- Docker
+- Kubernetes
+- Monitoring
+- NAS
+- Networking
+
+</td>
+</tr>
+</table>
+
+## Roadmap
+
+### 2026
+
+- [x] WindowsLab Core
+- [x] Fantasy Analyzer
+- [ ] Homelab Documentation
+- [ ] GitHub Pages Portfolio
+- [ ] Monitoring Stack
+
+### 2027
+
+- [ ] Kubernetes Cluster
+- [ ] Terraform Modules
+- [ ] AI Infrastructure Assistant
+
+
+## GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+## Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=github-dark&hide_border=true"/>
