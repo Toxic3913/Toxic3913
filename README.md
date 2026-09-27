@@ -242,7 +242,17 @@ It is inspired by enterprise administration practices instead of traditional "de
 - Phase 4 — Plugin System
 - Phase 5 — Production Release
 
+---
 
+# Current Projects Dashboard
+
+| Project | Status | Progress |
+|---------|--------|----------|
+| WindowsLab | Active Development | ████████░░ 80% |
+| Homelab Infrastructure | Running | ███████░░░ 70% |
+| Fantasy Analyzer | Building | ██████░░░░ 60% |
+| SysAdmin Toolkit | Active | █████████░ 90% |
+| GitHub Portfolio | Active | ███████░░░ 75% |
 ---
 
 # Homelab Infrastructure
@@ -253,15 +263,16 @@ It is inspired by enterprise administration practices instead of traditional "de
 <tr>
 <td width="33%">
 
-### Infrastructure
+### Infrastructure Stack
 
-- Windows Server
-- Active Directory
-- DNS
-- DHCP
-- Hyper-V
-- VMware
-- Proxmox
+| Category | Technology |
+|----------|------------|
+| Virtualization | VMware • Hyper-V • Proxmox |
+| Containers | Docker • Kubernetes |
+| Monitoring | Grafana • Prometheus • Loki |
+| Storage | NAS • SMB • Backups |
+| Networking | VLANs • DNS • DHCP • Reverse Proxy |
+| Automation | PowerShell • Bash • Python • GitHub Actions |
 
 </td>
 <td width="33%">
@@ -294,3 +305,9 @@ It is inspired by enterprise administration practices instead of traditional "de
 | Kubernetes Cluster | 🟡 Building |
 | Automation Toolkit | 🟢 Active |
 | GitHub Portfolio | 🟢 Active |
+
+## Architecture Overview
+
+<p align="center">
+<img src="assets/homelab-architecture.svg" width="100%">
+</p>
