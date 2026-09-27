@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <p align="center">
   <img src="toxic_3913-banner-1024.gif" width="100%" alt="WindowsLab Banner"/>
