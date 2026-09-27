@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="toxic_3913-banner-1024.gif" width="100%" alt="WindowsLab Banner"/>
+</p>
+
+
 <!--
 **Toxic3913/Toxic3913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
