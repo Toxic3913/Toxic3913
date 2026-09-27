@@ -209,6 +209,38 @@ Infrastructure automation, diagnostics and deployment utilities.
 
 | Component | Status |
 |-----------|--------|
+
+
+---
+
+# WindowsLab
+
+> Enterprise-grade Windows Optimization Toolkit built for Windows 11.
+
+### What is WindowsLab?
+
+WindowsLab is an open-source project focused on building a professional toolkit for Windows optimization, auditing and recovery.
+
+It is inspired by enterprise administration practices instead of traditional "debloat" scripts.
+
+### Main Modules
+
+| Module | Description |
+|--------|-------------|
+| Audit Engine | Hardware, services, drivers, telemetry and scheduled tasks analysis. |
+| Performance | Power plans, memory, storage, CPU scheduling and gaming tweaks. |
+| Privacy | Telemetry, diagnostics, background apps and Microsoft services. |
+| Backup Center | Restore Points, Registry Backup, Services Backup and Rollback. |
+| Security | Defender, Firewall, BitLocker, SmartScreen and Windows Security auditing. |
+| Gaming | GPU scheduling, Game Mode, DirectX, Storage optimization and latency tweaks. |
+
+### Current Status
+
+- Phase 1 — Research
+- Phase 2 — Audit Engine
+- Phase 3 — Dashboard UI
+- Phase 4 — Plugin System
+- Phase 5 — Production Release
 | WindowsLab | 🟢 Active Development |
 | Homelab | 🟢 Running |
 | Docker Stack | 🟢 Production |
