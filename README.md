@@ -1,290 +1,104 @@
-<!-- ========================================================= -->
-<!--                     HERO / BANNER                         -->
-<!-- ========================================================= -->
-
 <p align="center">
-  <img src="toxic_3913-banner-1024.gif" width="100%" alt="WindowsLab Banner"/>
+  <img src="toxic_3913-banner-1024.gif" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">Hugo Zaldívar</h1>
 
-<h3 align="center">
-Systems Administrator • DevOps • Infrastructure Automation
-</h3>
+<p align="center">
+  <b>Systems Administrator</b> • Windows • Linux • Docker • Kubernetes • PowerShell • Python
+</p>
 
 <p align="center">
-
-Building enterprise-grade Windows & Linux infrastructure.
-
-Automation • Docker • Kubernetes • Active Directory • Homelab • AI
-
+  Infrastructure Automation • Homelab • Open Source
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=3500&color=2563EB&center=true&vCenter=true&width=900&lines=Windows+Administrator;Linux+Enthusiast;Docker+%7C+Kubernetes+%7C+PowerShell;Building+WindowsLab;Infrastructure+Automation+Engineer"/>
-</p>
+## About Me
 
-<!-- ========================================================= -->
-<!--                    MAIN BADGES                            -->
-<!-- ========================================================= -->
+Systems Administrator from Spain focused on infrastructure, automation and self-hosted environments.
 
-<p align="center">
+I mainly work with Windows Server, Linux, virtualization, Docker, Kubernetes and scripting using PowerShell, Bash and Python.
 
-<img src="https://img.shields.io/badge/Windows_Server-2022-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=linux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-
-</p>
-
-<!-- ========================================================= -->
-<!--                  SOCIAL LINKS                             -->
-<!-- ========================================================= -->
-
-<p align="center">
-
-<a href="https://github.com/Toxic3913">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/TU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:TUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Toxic3913&style=flat-square&color=2563EB"/>
-</p>
-
-# About Me
-
-I'm **Hugo Zaldívar**, a Systems Administrator from Spain focused on building reliable infrastructure, automation tools and enterprise-grade homelab environments.
-
-My work combines Windows administration, Linux, virtualization, containers and scripting to automate and optimize infrastructure.
-
-## Current Focus
-
-- WindowsLab — Windows 11 Optimization Toolkit.
-- Enterprise Windows administration.
-- Docker & Kubernetes homelab infrastructure.
-- Infrastructure Automation with PowerShell, Bash and Python.
-- AI-assisted system administration projects.
-
-# Technology Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=windows,linux,docker,kubernetes,powershell,bash,python,git,github,githubactions,terraform,ansible,prometheus,grafana,vscode&perline=8"/>
-
-</p>
-
-
-
-### Automation
-
-- PowerShell
-- Bash
-- Python
-- WinRM
-- Scheduled Tasks
-
-</td>
-
-<td width="33%">
-
-### DevOps
-
-- Docker
-- Kubernetes
-- GitHub Actions
-- Terraform
-- Ansible
-
-</td>
-
-</tr>
-
-</table>
-
-# Infrastructure Dashboard
-
-| Component | Status |
-|-----------|--------|
-
+Currently building and documenting projects related to Windows optimization, homelab infrastructure and automation.
 
 ---
 
-# WindowsLab
-
-> Enterprise-grade Windows Optimization Toolkit built for Windows 11.
-
-### What is WindowsLab?
-
-WindowsLab is an open-source project focused on building a professional toolkit for Windows optimization, auditing and recovery.
-
-It is inspired by enterprise administration practices instead of traditional "debloat" scripts.
-
-### Main Modules
-
-| Module | Description |
-|--------|-------------|
-| Audit Engine | Hardware, services, drivers, telemetry and scheduled tasks analysis. |
-| Performance | Power plans, memory, storage, CPU scheduling and gaming tweaks. |
-| Privacy | Telemetry, diagnostics, background apps and Microsoft services. |
-| Backup Center | Restore Points, Registry Backup, Services Backup and Rollback. |
-| Security | Defender, Firewall, BitLocker, SmartScreen and Windows Security auditing. |
-| Gaming | GPU scheduling, Game Mode, DirectX, Storage optimization and latency tweaks. |
-
-### Current Status
-
-- Phase 1 — Research
-- Phase 2 — Audit Engine
-- Phase 3 — Dashboard UI
-- Phase 4 — Plugin System
-- Phase 5 — Production Release
-
----
-
-# Current Projects Dashboard
-
-| Project | Status | Progress |
-|---------|--------|----------|
-| WindowsLab | Active Development | ████████░░ 80% |
-| Homelab Infrastructure | Running | ███████░░░ 70% |
-| Fantasy Analyzer | Building | ██████░░░░ 60% |
-| SysAdmin Toolkit | Active | █████████░ 90% |
-| GitHub Portfolio | Active | ███████░░░ 75% |
----
-
-# Homelab Infrastructure
-
-> My production-like infrastructure for experimentation, automation and monitoring.
-
-<table>
-<tr>
-<td width="33%">
-
-### Infrastructure Stack
-
-| Category | Technology |
-|----------|------------|
-| Virtualization | VMware • Hyper-V • Proxmox |
-| Containers | Docker • Kubernetes |
-| Monitoring | Grafana • Prometheus • Loki |
-| Storage | NAS • SMB • Backups |
-| Networking | VLANs • DNS • DHCP • Reverse Proxy |
-| Automation | PowerShell • Bash • Python • GitHub Actions |
-
-</td>
-<td width="33%">
-
-### Containers
-
-- Docker
-- Docker Compose
-- Kubernetes
-- Portainer
-- Traefik
-
-</td>
-<td width="33%">
-
-### Monitoring
-
-- Prometheus
-- Grafana
-- Loki
-- Uptime Kuma
-- Node Exporter
-
-</td>
-</tr>
-</table>
-| WindowsLab | 🟢 Active Development |
-| Homelab | 🟢 Running |
-| Docker Stack | 🟢 Production |
-| Kubernetes Cluster | 🟡 Building |
-| Automation Toolkit | 🟢 Active |
-| GitHub Portfolio | 🟢 Active |
-
----
-
-# Learning Journey
-
-### Currently Learning
-
-- Kubernetes Administration.
-- Infrastructure as Code.
-- Terraform.
-- Observability.
-- Cloud-native Infrastructure.
-- AI for System Administration.
-
-### Interested In
-
-- eBPF
-- Talos Linux
-- K3s
-- Azure
-- OpenTofu
-- ArgoCD
-
----
-
-# WindowsLab Roadmap
-
-## Phase 1 — Research
-
-- [x] Windows Registry Research.
-- [x] Telemetry Investigation.
-- [x] Scheduled Tasks Audit.
-- [x] Windows Services Classification.
-
-## Phase 2 — Core Engine
-
-- [ ] Audit Engine.
-- [ ] Backup Engine.
-- [ ] Rollback Engine.
-- [ ] Registry Manager.
-
-## Phase 3 — Dashboard
-
-- [ ] Desktop Interface.
-- [ ] CLI Interface.
-- [ ] Plugin Architecture.
-- [ ] Configuration Profiles.
-
-## Phase 4 — Production
-
-- [ ] Documentation.
-- [ ] Testing Matrix.
-- [ ] Release Pipeline.
-- [ ] GitHub Pages Documentation.
-
-## Architecture Overview
+## Tech Stack
 
 <p align="center">
-<img src="assets/homelab-architecture.svg" width="100%">
+  <img src="https://skillicons.dev/icons?i=windows,linux,docker,kubernetes,powershell,bash,python,git,github,githubactions,prometheus,grafana,vscode&perline=6"/>
+</p>
+
+---
+
+## Main Technologies
+
+| Infrastructure | Automation | Containers |
+|---|---|---|
+| Windows Server | PowerShell | Docker |
+| Active Directory | Bash | Kubernetes |
+| Hyper-V | Python | Docker Compose |
+| VMware | GitHub Actions | Portainer |
+| Proxmox | Git | Traefik |
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| **WindowsLab** | Windows optimization and administration toolkit built with PowerShell. |
+| **Homelab** | Documentation and infrastructure for Docker, Kubernetes and monitoring. |
+| **Fantasy Analyzer** | AI-powered LaLiga Fantasy analysis project. |
+| **Automation Scripts** | Windows and Linux automation scripts. |
+
+---
+
+## GitHub Dashboard
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Toxic3913&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Toxic3913&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxic3913&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Toxic3913&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Toxic3913/Toxic3913/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## Development Metrics
+
+<p align="center">
+  <img src="./metrics.svg" width="100%"/>
+</p>
+
+---
+
+## Latest GitHub Activity
+
+<!-- RECENT_ACTIVITY:START -->
+<!-- RECENT_ACTIVITY:END -->
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Toxic3913&style=for-the-badge&color=2563EB"/>
 </p>
