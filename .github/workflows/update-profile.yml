@@ -1,1 +1,23 @@
 
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: RECENT_ACTIVITY
+          commit_message: Update README
+          feed_list: "https://github.com/Toxic3913.atom"
