@@ -241,6 +241,53 @@ It is inspired by enterprise administration practices instead of traditional "de
 - Phase 3 — Dashboard UI
 - Phase 4 — Plugin System
 - Phase 5 — Production Release
+
+
+---
+
+# Homelab Infrastructure
+
+> My production-like infrastructure for experimentation, automation and monitoring.
+
+<table>
+<tr>
+<td width="33%">
+
+### Infrastructure
+
+- Windows Server
+- Active Directory
+- DNS
+- DHCP
+- Hyper-V
+- VMware
+- Proxmox
+
+</td>
+<td width="33%">
+
+### Containers
+
+- Docker
+- Docker Compose
+- Kubernetes
+- Portainer
+- Traefik
+
+</td>
+<td width="33%">
+
+### Monitoring
+
+- Prometheus
+- Grafana
+- Loki
+- Uptime Kuma
+- Node Exporter
+
+</td>
+</tr>
+</table>
 | WindowsLab | 🟢 Active Development |
 | Homelab | 🟢 Running |
 | Docker Stack | 🟢 Production |
