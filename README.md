@@ -1,15 +1,11 @@
-<p align="center">
-  <img src="toxic_3913-banner-1024.gif" width="100%" alt="Banner">
-</p>
-
 <h1 align="center">Hugo Zaldívar</h1>
 
 <p align="center">
-  <b>Systems Administrator</b> • Windows • Linux • Docker • Kubernetes • PowerShell • Python
+  Systems Administrator
 </p>
 
 <p align="center">
-  Infrastructure Automation • Homelab • Open Source
+  Windows • Linux • Docker • Kubernetes • PowerShell • Python
 </p>
 
 <p align="center">
