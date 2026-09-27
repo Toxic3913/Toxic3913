@@ -12,7 +12,9 @@
   Infrastructure Automation • Homelab • Open Source
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&section=header"/>
+</p>
 
 ## About Me
 
@@ -22,7 +24,9 @@ I mainly work with Windows Server, Linux, virtualization, Docker, Kubernetes and
 
 Currently building and documenting projects related to Windows optimization, homelab infrastructure and automation.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&section=header"/>
+</p>
 
 ## Tech Stack
 
@@ -30,7 +34,9 @@ Currently building and documenting projects related to Windows optimization, hom
   <img src="https://skillicons.dev/icons?i=windows,linux,docker,kubernetes,powershell,bash,python,git,github,githubactions,prometheus,grafana,vscode&perline=6"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&section=header"/>
+</p>
 
 ## Main Technologies
 
@@ -42,7 +48,9 @@ Currently building and documenting projects related to Windows optimization, hom
 | VMware | GitHub Actions | Portainer |
 | Proxmox | Git | Traefik |
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&section=header"/>
+</p>
 
 ## Featured Projects
 
@@ -53,7 +61,9 @@ Currently building and documenting projects related to Windows optimization, hom
 | **Fantasy Analyzer** | AI-powered LaLiga Fantasy analysis project. |
 | **Automation Scripts** | Windows and Linux automation scripts. |
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&section=header"/>
+</p>
 
 ## GitHub Dashboard
 
@@ -66,7 +76,9 @@ Currently building and documenting projects related to Windows optimization, hom
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toxic3913&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&section=header"/>
+</p>
 
 ## Contribution Activity
 
@@ -74,7 +86,9 @@ Currently building and documenting projects related to Windows optimization, hom
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Toxic3913&theme=github-dark&hide_border=true"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&section=header"/>
+</p>
 
 ## Contribution Snake
 
@@ -82,7 +96,9 @@ Currently building and documenting projects related to Windows optimization, hom
   <img src="https://raw.githubusercontent.com/Toxic3913/Toxic3913/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&section=header"/>
+</p>
 
 ## Development Metrics
 
@@ -90,7 +106,9 @@ Currently building and documenting projects related to Windows optimization, hom
   <img src="./metrics.svg" width="100%"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&section=header"/>
+</p>
 
 ## Latest GitHub Activity
 
@@ -102,7 +120,9 @@ Currently building and documenting projects related to Windows optimization, hom
 - [Toxic3913 pushed Toxic3913](https://github.com/Toxic3913/Toxic3913/compare/b6421b7fd1...14454a8708)
 <!-- RECENT_ACTIVITY:END -->
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2563EB&height=2&section=header"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Toxic3913&style=for-the-badge&color=2563EB"/>
