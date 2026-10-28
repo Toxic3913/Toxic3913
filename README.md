@@ -147,8 +147,6 @@ Most of my repositories are focused on system administration, infrastructure aut
 - [Toxic3913 pushed WindowsLab](https://github.com/Toxic3913/WindowsLab/compare/0a0dac3251...b5071de931)
 - [Toxic3913 pushed WindowsLab](https://github.com/Toxic3913/WindowsLab/compare/54716973f5...0a0dac3251)
 - [Toxic3913 pushed WindowsLab](https://github.com/Toxic3913/WindowsLab/compare/8a7188b9fb...54716973f5)
-- [Toxic3913 pushed Toxic3913](https://github.com/Toxic3913/Toxic3913/compare/4f881d147a...f8059b79a4)
-- [Toxic3913 pushed Toxic3913](https://github.com/Toxic3913/Toxic3913/compare/f21b5120a6...4f881d147a)
 <!-- RECENT_ACTIVITY:END -->
 
 ---
